@@ -16,7 +16,7 @@ int main()
         if(tab[i]<6) product*=tab[i];
         cout << "Ostatnia wylosowana liczba: "<< tab[i] << endl
         << "Suma: " << sum << endl
-        << "Ilocyzn mniejszych od 6: " << product << endl;
+        << "Iloczyn mniejszych od 6: " << product << endl;
     }
     return 0;
 }
