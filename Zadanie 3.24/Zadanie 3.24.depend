@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578875666 source:c:\programming\c++\high school\zadanie 3.24\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
