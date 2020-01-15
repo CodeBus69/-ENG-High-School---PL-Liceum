@@ -75,7 +75,7 @@ int main()
         cout << "Ile razy wystapily:" << endl;
         for (int i=0;i<15;i++) {    //zlikwidowanie powtorzenia wypisu
         if (tablica[i]!=tablica[i-1]) {
-        cout << "Liczba " << tablica [i] << " wystepuje " << W[i] << " razy." << endl;
+        cout << "Liczba " << tablica [i] << " wystepuje " << W[i] ; if (W[i]==1) cout << " raz" << endl; else cout << " razy " << endl;
         }}
         SetConsoleTextAttribute(hConsole, 14);
         cout << "Niewypisane liczby z przedzialu [0,10] nie wystapily ani razu" << endl;

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1578586002 source:c:\programming\c++\high school\zadanie 3.23\main.cpp
+1578586052 source:c:\programming\c++\high school\zadanie 3.23\main.cpp
 	<iostream>
 	<cstdlib>
 	<time.h>
