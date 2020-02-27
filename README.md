@@ -1,4 +1,4 @@
-# Hello, it's my repository with high school tasks  
+# Hello, PIERDOLE MOJA KLASE 
 
 ## Jeśli jesteś z mojej klasy to przeczytaj:  
 
