@@ -1,4 +1,4 @@
-# Hello, PIERDOLE MOJA KLASE 
+# Hello, Morelo
 
 ## Jeśli jesteś z mojej klasy to przeczytaj:  
 
